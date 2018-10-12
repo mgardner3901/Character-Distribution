@@ -1,7 +1,7 @@
 """
 distribution.py
 Author: Morgan Gardner
-Credit: None
+Credit: Mr Dennison's guides on schoology
 Assignment:
 
 Write and submit a Python program (distribution.py) that computes and displays 
